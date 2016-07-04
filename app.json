@@ -1,0 +1,9 @@
+{
+  "name": "IRC Bouncer Sputnik",
+  "description": "IRC bouncer to be deployed on Heroku.",
+  "keywords": [
+    "Heroku",
+    "IRC",
+    "bouncer"
+  ],
+}
